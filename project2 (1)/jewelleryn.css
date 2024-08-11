@@ -1,0 +1,87 @@
+  
+  /* .video_div{
+      margin-left: -210px;
+      width:60%
+    }
+    @media (max-width:1199px){
+      .video_div{
+        margin-left: -200px;
+      } 
+    } */
+    .container1{
+        text-align: center;
+        }
+        
+        .footer { background-color:#F2D2BD; color: #3B3C36; padding: 60px 0; } 
+        .footer a { color:#3B3C36; text-decoration: none; } 
+        .footer a:hover { color: #ffc107; text-decoration: none; } 
+        .footer .social a { margin: 0 10px; font-size: 20px; } 
+        .footer .social a:hover { color: #ffc107; } 
+        .footer .footer-title { font-size: 18px; margin-bottom: 20px; font-weight: bold; } 
+        .footer p, .footer ul { margin-bottom: 20px; } 
+        .footer .list-unstyled li { margin-bottom: 10px; } 
+        .footer .contact-info li a:hover { text-decoration: underline; }
+        
+        .about_section .row {
+          -webkit-box-align: center;
+              -ms-flex-align: center;
+                  align-items: center;
+        }
+        
+        .about_section .img-box {
+          position: relative;
+          padding: 25px 0 0 25px;
+        }
+        
+        .about_section .img-box img {
+          width: 60%;
+          position: relative;
+          margin-left: 20%;
+        }
+        
+        .about_section .img-box::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 300px;
+          height: 300px;
+          background-color: #160e0b;
+          margin-left:20% ;
+        }
+        
+        .about_section .detail-box p {
+          margin-top: 10px;
+          margin-bottom: 35px;
+        }
+        
+        .about_section .detail-box a {
+          display: inline-block;
+          padding: 10px 45px;
+          background-color: #fd9c6b;
+          color: #ffffff;
+          border-radius: 0;
+          border: 1px solid #fd9c6b;
+          -webkit-transition: all .2s;
+          transition: all .2s;
+        }
+        
+        .about_section .detail-box a:hover {
+          background-color: transparent;
+          color: #fd9c6b;
+        }
+        
+      
+
+
+
+   #sumbit{
+    justify-content: center;
+    display: flex;
+   }     
+
+
+
+   .card:hover {
+      transform: scale(1.1);
+   }
